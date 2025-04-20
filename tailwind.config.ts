@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// DocSync custom colors
+				docsync: {
+					blue: '#007BFF',
+					green: '#28A745',
+					lightgray: '#F8F9FA',
+					red: '#DC3545',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
